@@ -224,6 +224,7 @@ set padding to all card
     padding: 10px 30px;
 }
 .donate-title{
+    justify-content: center;
     text-align: center;
 }
 .donate-title h1{
@@ -235,7 +236,7 @@ set padding to all card
 }
 .donating-photo img{
     width: 200px;
-    padding: 20px;
+    padding: 10px 35px;
 }
 
 .rights{
